@@ -7,4 +7,4 @@ Install file for setting up a Raspberry Pi for Mission to Mars
 
 `./install`
 
-Tested ok on Raspbian Wheezy and Jessie
+Tested ok on Raspbian Wheezy and Jessie!
